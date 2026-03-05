@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trixsearch
 - 👀 I’m interested in Frontend and Backend
-- 🌱 I’m currently learning Django and Fluttter
+- 🌱 I’m currently working in Django, Springboot, React
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 You can reach me at Email as inforatme@gmail.com
 
