@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** with **3 years of experience** building scalable, secure, and AI-powered applications. I specialize in **Java, Spring Boot, Python, Django, and React.js**, with a strong focus on **AI/LLM integrations** and **cloud-native development**.
+I'm a **Full Stack Developer** with **3 years of experience** building scalable, secure, and AI-powered applications. I specialize in **Java, Spring Boot, Python, Django, Flask and React.js**, with a strong focus on **AI/LLM integrations** and **cloud-native development**.
 
 - 🔭 Currently working on **AI-powered fintech solutions** at **Paraleagle.Ai**
 - 🌱 Exploring **LLMs, RAG, GenAI, and Kubernetes**
