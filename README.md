@@ -133,7 +133,7 @@ I'm a **Full Stack Developer** with **3 years of experience** building scalable,
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trixsearch&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=trixsearch.trixsearch&left_text=Profile%20Views" alt="Profile Views" />
 </p>
 
 ---
