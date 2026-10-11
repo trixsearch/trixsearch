@@ -17,7 +17,7 @@
 
 I'm a **Full Stack Developer** with **3 years of experience** building scalable, secure, and AI-powered applications. I specialize in **Java, Spring Boot, Python, Django, and React.js**, with a strong focus on **AI/LLM integrations** and **cloud-native development**.
 
-- 🔭 Currently working on **AI-powered fintech solutions** at **Kiya.Ai**
+- 🔭 Currently working on **AI-powered fintech solutions** at **Paraleagle.Ai**
 - 🌱 Exploring **LLMs, RAG, GenAI, and Kubernetes**
 - 💼 Experienced in **fintech, enterprise platforms, and microservices**
 - 🎯 Looking for **Full Stack / Backend / AI Engineer roles**
@@ -60,21 +60,7 @@ I'm a **Full Stack Developer** with **3 years of experience** building scalable,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 💼 Experience Highlights
-
-### 🏦 Software Developer Engineer | Kiya.Ai (Fintech)
-- Built **AI-powered banking chatbot** with Flask, Spring Boot, and self-hosted **LLaMA**
-- Extended to **WhatsApp Business API**, reaching **10K+ customers**, cutting support tickets by **30%**
-- Architected **PCI-DSS compliant** banking microservices on **Azure Kubernetes**
-- Achieved **99.9% uptime SLA** with CI/CD pipelines
-
-### 📱 Software Developer Engineer | Reliance Jio Platforms
-- Led development of **Jio-XCode Low-Code Platform** with **Keycloak OAuth 2.0**
-- Managed **10K+ contract employees**, securing **50K+ monthly logins**
-- Migrated monoliths to **Django REST microservices**, improving scalability by **40%**
-- Cut API latency by **35%** with **Redis caching**
 
 ---
 
@@ -112,7 +98,7 @@ I'm a **Full Stack Developer** with **3 years of experience** building scalable,
 ## 🎯 What I'm Looking For
 
 - **Full Stack Developer** | **Backend Engineer** | **AI/ML Engineer** roles
-- **Immediate Joiner** | Open to **Bangalore / Remote**
+- **Open Source Projects** | With **Any Support that can go for Community**
 - Interested in **fintech, AI, SaaS, and enterprise platforms**
 
 ---
